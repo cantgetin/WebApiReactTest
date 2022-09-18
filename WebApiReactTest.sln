@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiReactTest", "WebApiReactTest\WebApiReactTest.csproj", "{1733BAFA-448A-473B-843C-799A8D150E54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbInsertApp", "DbInsertApp\DbInsertApp.csproj", "{EBAD9CB3-D5E8-4B41-8A55-EED20E849660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1733BAFA-448A-473B-843C-799A8D150E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1733BAFA-448A-473B-843C-799A8D150E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1733BAFA-448A-473B-843C-799A8D150E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1733BAFA-448A-473B-843C-799A8D150E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBAD9CB3-D5E8-4B41-8A55-EED20E849660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAD9CB3-D5E8-4B41-8A55-EED20E849660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAD9CB3-D5E8-4B41-8A55-EED20E849660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAD9CB3-D5E8-4B41-8A55-EED20E849660}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EC96E3B-0CA7-4247-86F8-11E114475AA5}
+	EndGlobalSection
+EndGlobal
