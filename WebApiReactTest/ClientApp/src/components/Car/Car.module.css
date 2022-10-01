@@ -1,11 +1,6 @@
-﻿.titleText {
-    display: block;
-    text-align: center;
-}
-
-.container {
+﻿.container {
     display: flex;
-    margin: 30px 10px;
+    margin: 10px;
     flex-wrap: wrap;
     gap: 25px;
     justify-content: center;
@@ -15,10 +10,7 @@
     border: 2px solid;
     border-color: black;
     width: 200px;
-    display: inline-block;
+    display: flex;
+    flex-direction: column;
     text-align: center;
-}
-
-.car:hover {
-    cursor: pointer;
 }
